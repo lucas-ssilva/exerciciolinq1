@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.exe
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.deps.json
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.runtimeconfig.json
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.dll
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\bin\Debug\netcoreapp3.0\exerlinq1.pdb
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\obj\Debug\netcoreapp3.0\exerlinq1.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\obj\Debug\netcoreapp3.0\exerlinq1.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\obj\Debug\netcoreapp3.0\exerlinq1.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\obj\Debug\netcoreapp3.0\exerlinq1.dll
+C:\Users\Lucas\source\repos\exerlinq1\exerlinq1\obj\Debug\netcoreapp3.0\exerlinq1.pdb
